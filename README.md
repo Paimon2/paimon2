@@ -1,16 +1,19 @@
-### Hi there 👋
+I'm a hobbyist with a few years of experience in the following fields:
 
-<!--
-**Paimon2/paimon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+- JavaScript (Node.js, vanilla, React), HTML/CSS
+- Python, C/C++
+- Lua
+- Bash
+- VB.NET
+#### Tools/environments
+- Linux (+WSL), Docker, BSD, MySQL, MariaDB, OpenCV
+- *(some experience)* FFmpeg, PocketSphinx, OpenAL, OpenGL, GLFW, Tensorflow, Qt5
+- *(some experience)* Apache, phpMyAdmin
+#### Familiar with
+- AWS (EC2, S3, ECS, Lambda, DynamoDB, and a few others) + AWS CLI
+- CloudFlare
+- Basic network and system administration
+#### Working towards
+- AWS Certified Solutions Architect certification
+- Microsoft Azure experience
