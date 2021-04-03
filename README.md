@@ -1,3 +1,5 @@
+# Thanks for visiting me! 👋
+
 I'm a hobbyist with a few years of experience in the following fields:
 
 #### Languages
