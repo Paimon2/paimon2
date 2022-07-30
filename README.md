@@ -1,5 +1,7 @@
 # Thanks for visiting me! 👋
 
+![](https://komarev.com/ghpvc/?username=Paimon2)
+
 I'm a hobbyist with a few years of experience in the following fields:
 
 #### Languages
